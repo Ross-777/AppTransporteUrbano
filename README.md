@@ -24,3 +24,5 @@ Sprint 3: Mejorar la interfaz y accesibilidad
 Sprint 4: Pruebas y optimización
 •	Probar que la función de consulta se actualiza correctamente.
 •	Revisar errores y mejorar rendimiento.
+
+Revisar src/components/Horarios.jsx
